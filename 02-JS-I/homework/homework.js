@@ -1,13 +1,16 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = saludo = 'hola'
+const nuevaString = null;
+var saludo = 'hola';
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
+var positivo = 45;
 
 // Crea una variable booleana:
 const nuevoBool = null;
+var puedolograrlo = true;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - 5 === 5;
@@ -28,7 +31,7 @@ const nuevoModulo = 21 % 5 === 1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-
+  
 }
 
 function suma(x, y) {
